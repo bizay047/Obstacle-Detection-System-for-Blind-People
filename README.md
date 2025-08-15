@@ -35,7 +35,7 @@ It is designed as an assistive device for visually impaired individuals.
    - **Very close (<20 cm):** Fast beep & continuous vibration  
 
 ---
-
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/015e66d6-065c-412b-9b88-fefdc40503d8" />
 ## 🔌 Circuit Connections
 
 ### HC-SR04 → ESP8266
