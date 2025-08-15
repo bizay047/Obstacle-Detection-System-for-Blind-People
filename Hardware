@@ -1,0 +1,8 @@
+ //Hardware
+Hardware Components Required:
+1.ESP8266 (NodeMCU/ESP-01)
+2.HC-SR04 Ultrasonic Sensor – For distance measurement
+3.Buzzer and Vibration Motor – To alert the user
+5.Resistors (1kΩ, 330Ω) – For buzzer/motor control
+6.Battery Pack (18650 Li-Ion or Power Bank) – To power the system
+7.Jumper Wires
